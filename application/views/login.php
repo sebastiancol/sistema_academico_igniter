@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-//<?php require('includes/header.php');?>
+<?php require('includes/header.php');?>
 
 
         <div class="row m-5">
@@ -24,6 +24,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                </form>
         </div>
 
-//<?php require('includes/footer.php'); ?>
+<?php require('includes/footer.php'); ?>
 
 
